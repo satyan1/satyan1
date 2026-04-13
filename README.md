@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm Satyan. A Product Manager based in London.
+
+I build on the side using AI. Currently, building a trading up using Hidden Markov Chains.
+
+
+## About me
+* Senior Product Manager owing products across fintech, ecommerce, and marketplaces, at start-ups and global firms with 10-2000+ employees.
+* I’m great at translating complex technology into simple, valuable products that customers trust and love.
+
 <!--
 **satyan1/satyan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
