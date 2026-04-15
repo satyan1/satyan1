@@ -2,7 +2,7 @@
 
 I'm Satyan. A Product Manager based in London.
 
-I build on the side using AI. Currently, building a trading up using Hidden Markov Chains.
+I build on the side using AI. Currently, building a trading up using Hidden Markov Chains. This is not financial advise and but I would like to pick stocks using the app. 
 
 
 ## About me
